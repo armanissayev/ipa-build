@@ -42,8 +42,8 @@ Before running this project, make sure you have the following installed:
 
 1. **Clone the repository**
    ```bash
-   git clone [your-repository-url]
-   cd flutter_application_1
+   git clone [[your-repository-url]](https://github.com/armanissayev/ipa-build.git)
+   cd ipa-build
    ```
 
 2. **Install dependencies**
@@ -51,11 +51,7 @@ Before running this project, make sure you have the following installed:
    flutter pub get
    ```
 
-3. **Configure API Keys**
-   - For Android: Add your Google Maps API key in `android/app/src/main/AndroidManifest.xml`
-   - For iOS: Add your Google Maps API key in `ios/Runner/AppDelegate.swift`
-
-4. **Run the app**
+3. **Run the app**
    ```bash
    flutter run
    ```
